@@ -1,1 +1,1 @@
-msiexec /i C:\Temp\Zscaler\Zscaler-windows-4.0.0.80-installer-x64.msi /norestart CLOUDNAME=zscaler USERDOMAIN=fwd.com
+msiexec /i C:\Temp\Zscaler\Zscaler-windows-4.0.0.80-installer-x64.msi /norestart CLOUDNAME=zscaler POLICYTOKEN=323737383A333A65393134633461612D396633392D346163392D383866622D643561303337366238313031 strictEnforcement=1 USERDOMAIN=fwd.com
